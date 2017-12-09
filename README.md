@@ -1,4 +1,4 @@
-# Quiz-Bank-
+# Quiz-Bank
 Small quiz bank created in C++ Programming Language
 
 Objective
