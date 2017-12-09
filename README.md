@@ -1,5 +1,5 @@
 # Quiz-Bank-2017-
-Small quiz bank which consists of 10 Question . 
+Small quiz bank created in C++ Programming Language
 
 Objective
 1.  C++ program that utilizes multiple classes.
