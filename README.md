@@ -1,5 +1,5 @@
 # Quiz-Bank
-Small quiz bank created in C++ Programming Language
+
 
 Objective
 1.  C++ program that utilizes multiple classes.
