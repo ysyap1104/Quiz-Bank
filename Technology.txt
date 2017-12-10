@@ -1,0 +1,15 @@
+3
+TF 15
+Nintendo was founded after the year 1900.(true/false)
+false
+MC 20
+who is Mark Zuckerberg?
+3
+Creator of Facebook
+Creator of Dropbox
+Creator of Wechat
+A
+SA 10
+Firefox, Opera, Chrome, Safari and Explorer are types of what?
+Browsers
+

@@ -1,0 +1,15 @@
+3
+TF 15
+Yogurt is produced by bacterial fermentation of milk(true/false).
+true
+MC 20
+Another name for a tidal wave is a?
+3
+Tsunami
+Nuclear
+Earthquake
+A
+SA 15
+What is the biggest planet in our solar system?
+Jupiter
+
